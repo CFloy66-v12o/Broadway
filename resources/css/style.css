@@ -1,22 +1,14 @@
 body {
- text-align: center;
-}
-
-
-.header--image {
   background-image: url("resources/css/images/the-flatiron-building.png");
-  width: 400px;
-  height: 100px;
+  position: static;
+  background-repeat: repeat-x;
+  top: 5px;
 }
-
-
 
 
 .header--main {
- font-family: Helvetica;
- font-size: 70px;
- font-weight: bold;
- color: White;
-
-
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bol;
+  color: White;
 }
