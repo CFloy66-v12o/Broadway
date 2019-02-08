@@ -39,8 +39,31 @@ h1 {
  font-weight: bold;
 }
 
-.middle-text h2 {
+ .text-2 {
   font-family: Helvetica;
   font-size: 32px;
   font;size: bold;
+  margin: 20px;
+}
+
+.middle-container > .text-4 {
+  font-family: Helvetica;
+  font-size: 14px;
+}
+
+.text-1 {
+  margin: 18px;
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 23px;
+}
+
+.text-4 {
+  font-family: Helvetica;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+.understand {
+
 }
