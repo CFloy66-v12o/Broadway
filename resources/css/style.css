@@ -19,7 +19,7 @@ body {
   background-image: url("../images/the-flatiron-building.png");
   background-size: cover;
   height: 300px;
-  width: 1490px;
+  width: 100% auto;
 }
 
 .main-img {
