@@ -51,12 +51,12 @@ h1 {
   font-size: 14px;
 }
 
-.text-1 {
+.text-3 {
   margin: 18px;
   font-family: Helvetica;
   font-weight: bold;
   font-size: 23px;
-
+  color: black;
 }
 
 .text-4 {
@@ -79,6 +79,8 @@ h1 {
 
 .middle-img {
   background-image: url("../images/the-flatiron-building.png");
-  width: 100%;
+  width: 100% auto;
   height: 30px;
 }
+
+ 
