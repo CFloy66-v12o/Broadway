@@ -26,11 +26,23 @@ body {
 
 }
 
+.main-nav {
+  border: 3px groove white;
+  position: relative;
+  top: 4px;
+  width: 300px;
+  margin: 0 auto;
+  border-radius: 15px;
+
+}
+
 .main-nav a {
  margin: 30px;
  color: white;
  font-family: Helvetica;
  font-size: 18px;
+ letter-spacing: 5px;
+
 }
 
 h1 {
@@ -99,12 +111,13 @@ h1 {
 }
 
 
-.copyright {
+.copyright p {
   font-family: Helvetica;
-  font-size: 11px;
-  color: white;
-  background-color: dimgray;
+  font-size: 14px;
+  color: rgb(120,128,147);
+  background-color: none;
   float: left;
+  letter-spacing: 5px;
 }
 
 .footer-nav a {
@@ -112,4 +125,5 @@ h1 {
   font-size: 18px;
   float: left;
   margin: 5px;
+  letter-spacing: 3px;
 }
