@@ -42,8 +42,16 @@ body {
  font-family: Helvetica;
  font-size: 18px;
  letter-spacing: 5px;
-
+ background:
 }
+
+.main-nav a:hover {
+  background: 2e69a3;
+  border: 1px solid white;
+  color: orange;
+}
+
+
 
 h1 {
  font-size: 70px;
@@ -126,4 +134,10 @@ h1 {
   float: left;
   margin: 5px;
   letter-spacing: 3px;
+}
+
+.footer-nav a:hover {
+  background: 2e69a3;
+  border: 1px solid white;
+  color: orange;
 }
